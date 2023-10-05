@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to my GitHub profile! As a person, I consider myself innovative and future oriented one with broad skills that would be instrumental in boosting innovations, information, as well as technology. Learning is something that makes me thrive as a multi-potentialite. I am always eager to explore new concepts and ideas.
 
 Skills and Expertise
