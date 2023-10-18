@@ -2,7 +2,7 @@ Welcome to my GitHub profile! As a person, I consider myself innovative and futu
 
 Skills and Expertise-
 
-Throughout my journey in the realm of technology, I have gained various skills and experiences. My knowledge of programming includes Java, HTML, SQL, and ReactJS among others. In addition, I am able to formulate practical and optimal solutions by using various data structures and algorithms.
+Throughout my journey in the realm of technology, I have gained various skills and experiences. My knowledge of programming includes Java, HTML, CSS, and JavaScript among others. In addition, I am able to formulate practical and optimal solutions by using various data structures and algorithms.
 
 Learning and Growth -
 
