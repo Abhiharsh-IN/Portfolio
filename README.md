@@ -14,6 +14,10 @@ There is no power greater than collaboration and sharing of knowledge, in my opi
 
 I appreciate that you have been here in my GitHub profile. Let us connect and explore the world of technology! Innovate, Create, Make Change Happen!
 
+<br>![Profile Views](https://komarev.com/ghpvc/?username=Abhiharsh-IN&label=VIEWS)
+
+
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhiharsh-IN&theme=flag-india" alt="GitHub Streak" /></a>
 </p>
